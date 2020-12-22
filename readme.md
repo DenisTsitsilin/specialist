@@ -4,4 +4,6 @@ This repository contains labs, that were attached to the lecture "Application de
 
 | Lab version | Description |
 | ------------- | ------------- |
-| lab1 | First lab about dependency injection using property from XML (`applicationContext`) |
+| lab1 | This lab about dependency injection using properties from XML (`applicationContext`) |
+| lab2 | In process... |
+| lab3 | This lab about dependency injection using properties from Annotation described in the `ShapeConfig.class`
