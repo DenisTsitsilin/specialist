@@ -12,3 +12,4 @@ This repository contains labs, that were attached to the lecture "Application de
 | lab6 | This lab is an extension of the second lab by adding configuration file `ShapeConfig.class`
 | lab7 | This lab about `JDBC`. It is missing, will be added later
 | lab8 | This lab about `Hibernate`. Based on `MySQL 8` and Spring Framework 5.3
+| lab9 | This lab about `HttpServlet`. This project will be used in next projects.
